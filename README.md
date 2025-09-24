@@ -1,2 +1,0 @@
-# diiba-
-personal  web
